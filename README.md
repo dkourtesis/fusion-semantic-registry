@@ -1,8 +1,10 @@
+FUSION Semantic Registry v1.1
+========
+
 *******************************************************************************
 
-		   FUSION Semantic Registry v1.1 - README
-
-		http://www.seerc.org/fusion/semanticregistry/
+FUSION Semantic Registry v1.1 - README
+http://www.seerc.org/fusion/semanticregistry/
 
 *******************************************************************************
 
