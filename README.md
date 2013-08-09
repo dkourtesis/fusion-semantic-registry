@@ -1,14 +1,6 @@
 FUSION Semantic Registry v1.1
 ========
 
-*******************************************************************************
-
-FUSION Semantic Registry v1.1 - README
-
-http://www.seerc.org/fusion/semanticregistry/
-
-*******************************************************************************
-
 The FUSION Semantic Registry is a system allowing web services to be indexed 
 and discovered on the basis of semantic descriptions of their interfaces. It is 
 a Java Web Application that can be deployed on a standard servlet container and 
