@@ -1,0 +1,5 @@
+FUSION Semantic Registry 
+
+Copyright 2007-2013 South-East European Research Centre, The University of Sheffield 
+
+Developed by Dimitrios Kourtesis

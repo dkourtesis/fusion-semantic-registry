@@ -1,0 +1,6 @@
+*******************************************************************************
+		   FUSION Semantic Registry v1.1 - BUGS
+		http://www.seerc.org/fusion/semanticregistry/
+*******************************************************************************
+
+If you find any bugs please drop an email to dkourtesis@seerc.org or to d.kourtesis@gmail.com. Thanks!
